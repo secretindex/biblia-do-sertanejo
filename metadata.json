@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bíblia do Sertanejo",
+  "description": "Um aplicativo de áudio da Bíblia com narração em linguagem sertaneja e caipira, focado em acessibilidade e uso offline para o povo do interior.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
